@@ -2,5 +2,5 @@
 void add(int x , int y)
 {
 	int c = x+y;
-	printf("Adding result is : %d\n",c);
+	printf("Adding result we got : %d\n",c);
 }	
